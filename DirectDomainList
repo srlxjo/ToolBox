@@ -8,3 +8,9 @@ DOMAIN-SUFFIX,cmbchina.com
 
 # 云闪付
 DOMAIN-SUFFIX,95516.com 
+
+# 中信银行
+DOMAIN-SUFFIX,ecitic.com
+
+# 中石化
+DOMAIN-SUFFIX,95105888.com
