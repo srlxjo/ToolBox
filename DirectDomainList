@@ -1,19 +1,23 @@
 # 直连列表
 
+# 工具类
+
 # 英语听力
 DOMAIN-SUFFIX,aboboo.com 
+# 中石化
+DOMAIN-SUFFIX,95105888.com 
+# 19楼
+DOMAIN-SUFFIX,19lou.com 
 
-# 招商银行
-DOMAIN-SUFFIX,cmbchina.com 
+# 银行类
 
+# 我爱卡
+DOMAIN-SUFFIX,51credit.com 
 # 云闪付
 DOMAIN-SUFFIX,95516.com 
-
+# 中国银行
+DOMAIN-SUFFIX,bankofchina.com 
+# 招商银行
+DOMAIN-SUFFIX,cmbchina.com 
 # 中信银行
-DOMAIN-SUFFIX,ecitic.com
-
-# 中石化
-DOMAIN-SUFFIX,95105888.com
-
-# 19楼
-DOMAIN-SUFFIX,19lou.com
+DOMAIN-SUFFIX,ecitic.com 
