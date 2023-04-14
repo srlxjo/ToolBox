@@ -3,28 +3,32 @@
 # 工具类
 
 # 英语听力
-DOMAIN-SUFFIX,aboboo.com 
+DOMAIN-SUFFIX,aboboo.com
 # 中石化
-DOMAIN-SUFFIX,95105888.com 
+DOMAIN-SUFFIX,95105888.com
 # 19楼
-DOMAIN-SUFFIX,19lou.com 
+DOMAIN-SUFFIX,19lou.com
 
 # 银行类
 
 # 我爱卡
-DOMAIN-SUFFIX,51credit.com 
+DOMAIN-SUFFIX,51credit.com
 # 云闪付
-DOMAIN-SUFFIX,95516.com 
+DOMAIN-SUFFIX,95516.com
+# 交通银行
+DOMAIN-SUFFIX,bankcomm.com
 # 中国银行
-DOMAIN-SUFFIX,bankofchina.com 
+DOMAIN-SUFFIX,bankofchina.com
 # 招商银行
-DOMAIN-SUFFIX,cmbchina.com 
+DOMAIN-SUFFIX,cmbchina.com
 # 中信银行
-DOMAIN-SUFFIX,ecitic.com 
+DOMAIN-SUFFIX,ecitic.com
+# 工商银行
+DOMAIN-SUFFIX,ofpay.com
 # 台州银行
-DOMAIN-SUFFIX,tzbank.com 
+DOMAIN-SUFFIX,tzbank.com
+# 银盛支付
+DOMAIN-SUFFIX,ysepay.com
 # 浙江农信银行
-DOMAIN-SUFFIX,zj96596.com 
-
-
+DOMAIN-SUFFIX,zj96596.com
 
