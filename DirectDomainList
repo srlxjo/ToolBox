@@ -22,14 +22,20 @@ DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,bankcomm.com
 # 中国银行
 DOMAIN-SUFFIX,bankofchina.com
+# 银联商务
+DOMAIN-SUFFIX,chinaums.com
 # 招商银行
 DOMAIN-SUFFIX,cmbchina.com
 # 中信银行
 DOMAIN-SUFFIX,ecitic.com
+# 微脉商城
+DOMAIN-SUFFIX,myweimai.com
 # 工商银行
 DOMAIN-SUFFIX,ofpay.com
 # 台州银行
 DOMAIN-SUFFIX,tzbank.com
+# 微脉支付
+DOMAIN-SUFFIX,weimaipay.com
 # 银盛支付
 DOMAIN-SUFFIX,ysepay.com
 # 浙江农信银行
