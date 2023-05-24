@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,teambition.com
 # 我爱卡
 DOMAIN-SUFFIX,51credit.com
 # 云闪付
-DOMAIN-SUFFIX,qr.95516.com
+DOMAIN-SUFFIX,95516.com
 # 交通银行
 DOMAIN-SUFFIX,bankcomm.com
 # 中国银行
@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,myweimai.com
 DOMAIN-SUFFIX,ofpay.com
 # 台州银行
 DOMAIN-SUFFIX,tzbank.com
+# 台州泰隆银行
+DOMAIN-SUFFIX,tztlcb.com
 # 微脉支付
 DOMAIN-SUFFIX,weimaipay.com
 # 银盛支付
